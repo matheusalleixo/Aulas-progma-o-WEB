@@ -1,2 +1,2 @@
-# Aulas-progma-o-WEB
-repositório centralizara todos os códigos construidos na disciplina
+# AulasProgramacaoWeb
+Repositório que centralizara todos os códigos construídos na disciplina
